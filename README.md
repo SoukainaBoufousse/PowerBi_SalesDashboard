@@ -12,7 +12,11 @@ In order to understand the calculations and metrics used in this project, please
 Explore a glimpse of the Power BI sales dashboard below:
 
 ![](Images/img1.png)
+
 ![](Images/img2.png)
+
 ![](Images/img3.png)
+
 ![](Images/img4.png)
+
 ![](Images/img5.png)
